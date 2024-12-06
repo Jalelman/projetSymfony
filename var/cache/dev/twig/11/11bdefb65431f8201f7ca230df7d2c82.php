@@ -222,6 +222,6 @@ class __TwigTemplate_c8a8ce07be67d8ca3d031197ca8fe1cd extends Template
 
 
 {% endblock %}
-", "account/index.html.twig", "C:\\laragon\\www\\ecommerce-symfony\\templates\\account\\index.html.twig");
+", "account/index.html.twig", "C:\\laragon\\www\\ecommerce\\templates\\account\\index.html.twig");
     }
 }
